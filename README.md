@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello There!
 
+Young developer and Technology enthusiast from Hortolândia, São Paulo, Brazil  
+
+Currently as Intern | Front-End developer at Flex
+
+I ❤ Open Source
 <!--
 **V11-0/V11-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
