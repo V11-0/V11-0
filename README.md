@@ -4,7 +4,7 @@
 
 - 📋 I’m currently in an internship at **Flex** as a **Full-Stack Developer**
 
-- 📈 I’m currently learning **.NET 5**, **HTML5**, **CSS3** and **Vue**
+- 📈 I’m currently learning **.NET 6**, **HTML5**, **CSS3** and **Vue**
 
 - 📫 How to reach me: **vinicius.bruscagini@outlook.com**
 
