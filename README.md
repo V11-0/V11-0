@@ -121,8 +121,8 @@
 </p>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=V11-0&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V11-0&theme=algolia&layout=compact&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V11-0&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V11-0&theme=algolia&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">Thanks for visiting my profile! ❤️</p>
