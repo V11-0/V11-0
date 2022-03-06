@@ -108,24 +108,21 @@
 
 <br />
 
-## My GitHub Stats
+## 📊 My GitHub Stats
 
 <p>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V11-0&theme=monokai" alt="V11-0 Contribution Chart" />
 </p>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=V11-0&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V11-0&theme=algolia&layout=compact&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=V11-0&theme=algolia&hide_border=true&date_format=%5BY-%5Dn-j" alt="GitHub Streak" />
+  </a>
 </p>
 
-<p>
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=V11-0&theme=algolia&hide_border=true&date_format=%5BY-%5Dn-j" alt="GitHub Streak">
-  </a>
-
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=V11-0&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V11-0&theme=algolia&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">Thanks for visiting my profile! ❤️</p>
