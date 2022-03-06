@@ -1,10 +1,10 @@
-<h1 align="center">Hello There 👋, I'm Vinícius <img height="25" src="https://emoji.gg/assets/emoji/1667-str-gem.png"></h1>
+<h1 align="center">Hello There 👋, I'm Vinícius 💠</h1>
 
 <h3 align="center">A passionate tech enthusiast and developer from São Paulo, Brazil 🇧🇷</h3><br />
 
 - 📋 I’m currently in an internship at **Flex** as a **Full-Stack Developer**
 
-- 📈 I’m currently learning **.NET 6**, **Angular** and **Vue**
+- 📈 I’m currently learning **.NET 6** and **Vue**
 
 - 📫 How to reach me: **vinicius.bruscagini@outlook.com**
 
@@ -13,15 +13,21 @@
 - 🐧 I use **Arch Linux** as daily driver, I ❤️ **Linux** and **Open Source**
 
 <br />
-<h3 align="center">Connect with me:</h3>
-<div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-bruscagini/)
+## Connect with me
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vinicius-bruscagini/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/V11-0/">
+    <img src="https://img.shields.io/badge/GitHub-333?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 <br />
 
-<h3 align="center">Languages and Tools:</h3>
+## Languages and Tools
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
@@ -61,11 +67,26 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40">
   </a>
 </p>
+<br />
+
+## My GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=V11-0&theme=algolia&show_icons=true&include_all_commits=true" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=V11-0&theme=monokai" alt="V11-0 Contribution Chart" />
+</p>
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V11-0&theme=algolia&layout=compact" />
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=V11-0&theme=algolia&show_icons=true&include_all_commits=true&hide_border=true" />
+
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V11-0&theme=algolia&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=V11-0&theme=algolia&hide_border=true&date_format=%5BY-%5Dn-j" alt="GitHub Streak">
+  </a>
+
 </p>
 
 <p align="center">Thanks for visiting my profile! ❤️</p>
