@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate tech enthusiast and developer from São Paulo, Brazil 🇧🇷</h3><br />
 
-- 📋 I’m currently in an internship at **Flex** as a **Full-Stack Developer**
+- 📋 I’m currently at **Flex** as a **System Analyst**
 
 - 📈 I’m currently learning **.NET 6** and **Vue**
 
