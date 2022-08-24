@@ -6,8 +6,6 @@
 
 - 📈 I’m currently learning **.NET 6** and **Vue**
 
-- 📫 How to reach me: **vinicius.bruscagini@outlook.com**
-
 - ⚡ I love **gaming**, **music**, **sports** and... **coding**
 
 - 🐧 I use **Arch Linux** as daily driver, I ❤️ **Linux** and **Open Source**
@@ -22,6 +20,9 @@
   </a>
   <a href="https://github.com/V11-0/">
     <img src="https://img.shields.io/badge/GitHub-333?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:vinicius.bruscagini@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0072c6?style=flat&logo=Mail.Ru&logoColor=white" alt="Email" />
   </a>
 </p>
 <br />
